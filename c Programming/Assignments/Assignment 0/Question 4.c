@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 void main()
 {
 	int Temp,b=10,c=20;
